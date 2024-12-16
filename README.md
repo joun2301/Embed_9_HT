@@ -45,8 +45,10 @@
 ---
 
 ## 🔧 기술 스택 & 하드웨어
-- **Hardware**: Servo Motor, Button, Light Sensor, LED, Temp/Humidity Sensor, Cooler, Rotary Encoder, Ultrasonic Sensor, Display  
-- **Software**: Raspberry Pi 4 B, C/C++  
+- **Sensor**: Button, Photo Resistor(Cds), Temp/Humidity Sensor(DHT11), Rotary Encoder, Ultrasonic Sensor
+- **Actuator**: Servo Motor, LED(LED Bar), Cooler(DC 12V), Display(Raspberry Pi Display V1.1)
+- **Hardware**: Raspberry Pi 4 B, UPS Battery Module, Bread Board
+- **Software**: gcc, C/C++, VSCode
 - **Environment**: Home-like Theater Setup
 
 ---
