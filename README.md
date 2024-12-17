@@ -73,7 +73,7 @@
 ![image](https://github.com/user-attachments/assets/8da19738-d983-4ce5-8ba2-0b79b1aabfaf)
 - ① 1번 버튼(BTN1) : 각도 커짐 || 2번 버튼(BTN2) : 각도 작아짐
 - ② 1번 버튼&&2번 버튼 : 초기 각도(기본 의자 등받이 각도)로 회귀
-- 
+
 
 ### 블루투스 통신
 ![image](https://github.com/user-attachments/assets/72e94dd6-536a-4c7b-9cfc-53cd481c1f7a)
