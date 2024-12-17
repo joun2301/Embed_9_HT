@@ -34,10 +34,10 @@
 
 ## 🛠 전체 시스템 구조
 
-![image]()
+![image](![image](https://github.com/user-attachments/assets/b9c3aacb-0e41-4cd9-9202-d39e9af012ef))
 
 ### 엑추에이터 별 도식화
-![image]()
+![image](![image](https://github.com/user-attachments/assets/e0747155-2670-4fb7-bf5d-50542b0f56c2))
 
 ---
 
