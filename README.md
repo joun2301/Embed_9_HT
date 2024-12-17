@@ -39,6 +39,7 @@
 | 김민준    | 프로젝트 총괄, 회로 설계 및 구성, 소스코드 통합  | [joun2301](https://github.com/joun2301)   |
 | 하종찬    | 볼륨 조절, 조명 제어 시스템, 인테리어  | [gkwhdcks9](https://github.com/gkwhdcks9)   |
 | 이근탁    | 메인 프로세스, 디스플레이 제어, 블루투스 통신  | [imbmi4](https://github.com/imbmi4)   |
+| 최승민    | 볼륨 조절, 조명 제어 시스템, 인테리어  | [c3110y3110](https://github.com/dashboard)   |
 
 ---
 
