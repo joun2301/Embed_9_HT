@@ -45,8 +45,8 @@
 ### 사람 감지 및 TV 제어
 ![image](https://github.com/user-attachments/assets/03259a41-5f81-40eb-a2ed-63851ec44995)
 - ① 초음파 센서로 10cm 이내에 사람 감지
-  -- 사람 감지 시, TV ON
-  -- 사람 미감지 시, TV OFF
+  - 사람 감지 시, TV ON
+   사람 미감지 시, TV OFF
 - 감지 상태에서 3번 버튼(BTN3)을 통해 수동 제어 가능)
 
 
@@ -66,7 +66,7 @@
 ![image](https://github.com/user-attachments/assets/97b4b0db-de89-4ed9-bb6f-3839087dbb85)
 - ① 로터리 센서를 활용한 시스템 볼륨 조절(+1 or -1)
 - ② 로터리 센서 버튼 활용 시, 음소거 및 음소거 해제 가능
-  -- 음소거 해제 시, 음소거 이전의 값으로 복귀
+  - 음소거 해제 시, 음소거 이전의 값으로 복귀
 
 
 ### 의자 각도 조절
@@ -78,8 +78,8 @@
 ### 블루투스 통신
 ![image](https://github.com/user-attachments/assets/72e94dd6-536a-4c7b-9cfc-53cd481c1f7a)
 - ① 메인 프로세스에서 모든 센서 및 액추에이터 자동 모드 시작
--- 블루투스로 사용자 모드 입력을 받는 Client 프로세스
-  -- 입력 받은 모드를 적용하는 Server 프로세스(ex. SPEAKER:SET_VOLUME;75)
+  - 블루투스로 사용자 모드 입력을 받는 Client 프로세스
+  - 입력 받은 모드를 적용하는 Server 프로세스(ex. SPEAKER:SET_VOLUME;75)
 
 
 ---
@@ -88,9 +88,9 @@
 ### 권한 요구 문제
 ![image](https://github.com/user-attachments/assets/850afbc3-35a5-4677-b6fd-61aedc41fc6d)
 - 서브 모터를 제외한 기능들은 일반 권한 요구
-  -- 메인 프로세스 코드 내, posix_spawn의 속성 값 변경만으로 권한 변경 불가
+  - 메인 프로세스 코드 내, posix_spawn의 속성 값 변경만으로 권한 변경 불가
 - 서브 모터는 PWM이 적용되어 root 권한 요구
-  -- 서브 모터 코드 내 setuid, setgid 적용 시, 좀비 프로세스 생성
+  - 서브 모터 코드 내 setuid, setgid 적용 시, 좀비 프로세스 생성
 
 
 #### 해결 방법
