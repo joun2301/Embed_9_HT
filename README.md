@@ -78,7 +78,7 @@
 ### 블루투스 통신
 ![image](https://github.com/user-attachments/assets/72e94dd6-536a-4c7b-9cfc-53cd481c1f7a)
 - ① 메인 프로세스에서 모든 센서 및 액추에이터 자동 모드 시작
-  -- 블루투스로 사용자 모드 입력을 받는 Client 프로세스
+-- 블루투스로 사용자 모드 입력을 받는 Client 프로세스
   -- 입력 받은 모드를 적용하는 Server 프로세스(ex. SPEAKER:SET_VOLUME;75)
 
 
