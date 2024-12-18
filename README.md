@@ -36,7 +36,7 @@
 ### 🛠 전체 시스템 구조
 ![image](https://github.com/user-attachments/assets/b9c3aacb-0e41-4cd9-9202-d39e9af012ef)
 
-### 🛠 엑추에이터 별 도식화
+### 🛠 기능 별 센서 및 액추에이터 관계도
 ![image](https://github.com/user-attachments/assets/edfa6b24-465f-46e5-b46f-08133e9d065e)
 
 ---
