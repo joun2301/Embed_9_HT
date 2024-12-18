@@ -51,7 +51,7 @@
 ## ✨ 기능 상세 설명
 
 ### 사람 감지 및 TV 제어
-![사람감지및TV제어]https://github.com/user-attachments/assets/2383d60b-38bc-477a-98b4-5d0025de60b4)
+![그림1]https://github.com/user-attachments/assets/2383d60b-38bc-477a-98b4-5d0025de60b4)
 - 초음파 센서로 10cm 이내에 사람 감지
   - 사람 감지 시, TV ON
   - 사람 미감지 시, TV OFF
