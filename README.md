@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5ef8de0-1b52-43ed-b9d1-81b0d8797c51)# 🎬 Home Sweet Theater
+# 🎬 Home Sweet Theater
 
 > **경험을 극대화하는 나만의 홈시어터**  
 > **Home Sweet Theater**는 사용자에게 **몰입감 넘치는 시청 환경**을 제공하는 프로젝트입니다.  
