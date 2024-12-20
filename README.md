@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/2974f11a-b0ba-454a-b269-9cf2540f10f7
 # 🎬 Home Sweet Theater
 
 > **경험을 극대화하는 나만의 홈시어터**
