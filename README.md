@@ -96,10 +96,10 @@
 
 ### 권한 요구 문제
 ![권한요구문제](https://github.com/user-attachments/assets/850afbc3-35a5-4677-b6fd-61aedc41fc6d)
-- 서브 모터를 제외한 기능들은 일반 권한 요구
+- 서보 모터를 제외한 기능들은 일반 권한 요구
   - 메인 프로세스 코드 내, posix_spawn의 속성 값 변경만으로 권한 변경 불가
-- 서브 모터는 PWM이 적용되어 root 권한 요구
-  - 서브 모터 코드 내 setuid, setgid 적용 시, 좀비 프로세스 생성
+- 서보 모터는 PWM이 적용되어 root 권한 요구
+  - 서보 모터 코드 내 setuid, setgid 적용 시, 좀비 프로세스 생성
 
 
 #### 해결 방법
@@ -113,25 +113,25 @@
 ### 사람 감지 및 TV 제어 + 의자 각도 제어
 
 
-https://github.com/user-attachments/assets/7ba2c901-03b3-4f49-842f-5c86a579d26d
+https://github.com/user-attachments/assets/98280152-0834-4bae-a955-438ffe9b05a8
 
 
 ### 조명 제어
 
 
-https://github.com/user-attachments/assets/8e42c924-9869-447a-ba72-57fd7b0edd95
+https://github.com/user-attachments/assets/ac720cb2-91ad-41d4-bc04-e3bec28ea91b
 
 
 ### 온/습도 감지 및 냉각 제어
 
 
-https://github.com/user-attachments/assets/1118f308-538c-4845-80c7-3b1cd0b28487
+https://github.com/user-attachments/assets/4057ca5f-2cad-4323-9c01-71e2ac1e7405
 
 
 ### 스피커 음량 조절
 
 
-https://github.com/user-attachments/assets/023838ab-1495-4e0e-b0de-4716df44c668
+https://github.com/user-attachments/assets/fc5b3d16-1e47-4fad-bb76-6cfc6a3717bf
 
 
 ---
