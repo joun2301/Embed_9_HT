@@ -111,13 +111,13 @@
 
 ## ▶️ 기능 별 데모 영상
 - 사람 감지 및 TV 제어 + 의자 각도 제어
-  - ![TV및리클라이너영상](https://github.com/user-attachments/assets/4986dc7e-d3e9-4b8a-9010-0ac4492d65f7)
+https://github.com/user-attachments/assets/4986dc7e-d3e9-4b8a-9010-0ac4492d65f7
 - 조명 제어
-  - ![조명제어영상](https://github.com/user-attachments/assets/4b3c77b2-2cfa-4978-be70-274407be8903)
+https://github.com/user-attachments/assets/4b3c77b2-2cfa-4978-be70-274407be8903
 - 온/습도 감지 및 냉각 제어
-  - ![온습도감지및냉각제어영상](https://github.com/user-attachments/assets/56f401c3-7a11-49a4-a4a5-6949ef87ff8f)
+https://github.com/user-attachments/assets/56f401c3-7a11-49a4-a4a5-6949ef87ff8f
 - 스피커 음량 조절
-  - ![스피커음량조절영상](https://github.com/user-attachments/assets/326502e5-aee6-4a3b-9b3f-1885a6bffc70)
+https://github.com/user-attachments/assets/326502e5-aee6-4a3b-9b3f-1885a6bffc70
 
 ---
 
