@@ -77,7 +77,7 @@
 
 
 ### 의자 각도 조절
-![의자각도조절](https://github.com/user-attachments/assets/78908708-0139-4f57-b55c-d55a124a5217)\
+![의자각도조절](https://github.com/user-attachments/assets/78908708-0139-4f57-b55c-d55a124a5217)
 - 수평 기준 100도 ~ 170도까지 조절 가능 
 - 1번 버튼(BTN1) : 각도 커짐(뒤쪽으로 젖혀짐)
 - 2번 버튼(BTN2) : 각도 작아짐(앞쪽으로 젖혀짐)
