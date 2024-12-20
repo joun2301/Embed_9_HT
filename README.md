@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/2974f11a-b0ba-454a-b269-9cf2540f10f7
 # 🎬 Home Sweet Theater
 
 > **경험을 극대화하는 나만의 홈시어터**
@@ -106,6 +108,18 @@
 ![해결방법](https://github.com/user-attachments/assets/18e7c389-b2b1-45f1-a17c-b8005620242c)
 - posiz_spaw 함수의 실행 대상(두 번째 인자)을 /usr/bin/sudo 경로 지정
 - 실행 매개 변수(다섯 번째 인자)를 서브 모터 기능 담당 파일로 설정
+
+---
+
+## ▶️ 기능 별 데모 영상
+- 사람 감지 및 TV 제어 + 의자 각도 제어
+  - ![TV및리클라이너영상](https://github.com/user-attachments/assets/4986dc7e-d3e9-4b8a-9010-0ac4492d65f7)
+- 조명 제어
+  - ![조명제어영상](https://github.com/user-attachments/assets/4b3c77b2-2cfa-4978-be70-274407be8903)
+- 온/습도 감지 및 냉각 제어
+  - ![온습도감지및냉각제어영상](https://github.com/user-attachments/assets/56f401c3-7a11-49a4-a4a5-6949ef87ff8f)
+- 스피커 음량 조절
+  - ![스피커음량조절영상](https://github.com/user-attachments/assets/326502e5-aee6-4a3b-9b3f-1885a6bffc70)
 
 ---
 
